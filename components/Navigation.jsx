@@ -10,6 +10,9 @@ const links = [{
   },{
     label: 'Posts',
     route: '/posts'
+  },{
+    label: 'Contacto',
+    route: '/contacto'
   }]
 
   export function Navigation () {
